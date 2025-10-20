@@ -27,10 +27,9 @@ int main()
       }
       printf("\n");
   }
+ return 0;
+}
+
 ```
 ## Output:
 <img width="1000" height="342" alt="image" src="https://github.com/user-attachments/assets/015c36d4-33ec-4de5-9267-3e3585ebec75" />
-
-
-  return 0;
-}
